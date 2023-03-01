@@ -64,8 +64,5 @@ display(df.shape[0])   # 2
 display(len(df.axes[0])) # 3
 
 # Pandas Get the Number of Columns
-display(df.shape[1])
-display(len(df.axes[1])) # 3
-
-
-
+display(df.shape[1]) # 1
+display(len(df.axes[1])) # 2
